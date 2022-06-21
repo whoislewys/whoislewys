@@ -2,9 +2,10 @@
 
 I'm a full stack developer who likes to build cool stuff with great people.
 
-I built [Mood Industries](https://github.com/moodindustries), a music discovery app that served underground music to 1000s of people, was a full-stack developer at [Workiva](https://www.workiva.com/), led a team at (Dovly)[https://www.dovly.com/] to build an app with a unique approach to help people supercharge their credit score.
+## Work
+> See my resume for details on my experience: https://docs.google.com/document/d/1lPXFFqeredk7Ko9JmhgtSPnF6o8DTVzVrIA6PO9CMf8/edit?usp=sharing
 
-Random side projects in between of course. See https://whoislewys.com for more on me if you're curios
+I built [Mood Industries](https://github.com/moodindustries), a music discovery app that served underground music to 1000s of people, was a full-stack developer at [Workiva](https://www.workiva.com/), led a team at (Dovly)[https://www.dovly.com/] to build an app with a unique approach to help people supercharge their credit score.
 
 I also love playing guitar, latin dancing, and cooking.
 
