@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Luis!
 
-I'm a full stack developer who likes to build cool stuff with great people.
+I'm a full stack developer who likes to build useful things.
 
 ## Work
 > See my resume for full details on my experience: https://docs.google.com/document/d/1lPXFFqeredk7Ko9JmhgtSPnF6o8DTVzVrIA6PO9CMf8/edit?usp=sharing
